@@ -1,5 +1,5 @@
 - 👋 Hi, I’m arianshi
-- 👀 I’m interested in front end and devops and backed
+- 👀 I’m interested in front end and devops and backend
 - 📫 arian@republik.io
 
 <div style="display:flex;flex-direction:row;justify-content: center;">
