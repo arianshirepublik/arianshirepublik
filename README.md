@@ -1,2 +1,1 @@
 - 👋 Hi, I’m arianshi
-- 👀 I’m interested in front end and devops and backend
